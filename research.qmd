@@ -1,0 +1,42 @@
+---
+title: "Research"
+editor: visual
+---
+
+### Working Paper
+
+- **Skill-specific Migration Restrictions and Education Decision: Evidence from China** *(Draft available upon request)*
+
+  - <div style="margin-top: -0.8em; margin-bottom: -0.8em;""><small><font color="gray" style="font-style: italic;">Presentations: 2025 International Workshop on Chinese Economy (HKU); RES 2026 Annual Conference (Newcastle)</font></small></div>
+
+  <details>
+
+  <summary><font color="black">Abstract</font></summary>
+
+  ::: {style="margin-top: 0.5em;"}
+  Migration prospects can reshape the pattern of human capital accumulation in potential sending communities by shifting the expected net return to education. This study exploits China's hukou reforms, which impose different migration restrictions across skill groups, and examines their effects on educational outcomes among the rural population. I classify hukou policies across more than 300 prefectures into skill-biased and general reforms and construct hukou strictness indices to measure their intensity. Using a shift-share approach, I find that skill-biased reforms in destinations increased enrollment in high schools and colleges among eligible age groups from the origins. In contrast, general reforms in destinations decreased enrollment rates in the origins. Similar patterns exist in long-run education attainment. These divergent effects highlight the importance of skill-specific migration prospects: skill-biased reforms increased the chances of high-skilled migration and thus the expected return to education, whereas general reforms increased the chances of low-skilled migration and, in turn, the opportunity costs of education.
+  :::
+
+  </details>
+
+### Publication
+
+- [**We’ve got you covered! The effect of public health insurance on rural entrepreneurship in China**](https://www.sciencedirect.com/science/article/abs/pii/S0047272724000860)**.** (with [Zenan Wu](https://www.zenanwu.com/) and [Ye Yuan](https://yuanye-econ.github.io/)). 2024. ***Journal of Public Economics**,* 235, 105150.
+
+  - <div style="margin-top: -0.8em; margin-bottom: -0.8em;""><small><font color="gray" style="font-style: italic;">Presentations: AMES 2023 (Beijing); AMES 2023* (Singapore); AASLE 2022* (Online)</font></small></div>
+
+  <details>
+
+  <summary><font color="black"> Abstract </font></summary>
+
+  ::: {style="margin-top: 0.5em;"}
+  Rural households contend with numerous uninsured risks that hinder their ability to leverage profitable yet risky opportunities. We study whether the provision of insurance coverage for medical expenditure, one of the most substantial and unpredictable risk, can stimulate entrepreneurship and other risky financial decisions among rural households. We leverage the progressive nationwide rollout of a universal public health insurance program in rural China. We find that the introduction of health insurance led to a substantial increase in rural households engagement in entrepreneurship. This increase is mainly driven by the risk sharing of health insurance, rather than a reduction in realized medical expenses. The entrepreneurship-promoting effect is also evident at an aggregate level, fostering the growth of smallholder businesses in rural counties. Our findings shed light on the understudied, favorable impact of health insurance on household’s risk taking in rural markets of developing countries.
+  :::
+
+  </details>
+
+### Work in Progress
+
+- Measuring sector-specific return to skills using Chinese income data (with [Naijia Guo](https://sites.google.com/view/naijia-guo/home?authuser=0))
+
+<small>*\*presented by coauthor(s)*</small>
