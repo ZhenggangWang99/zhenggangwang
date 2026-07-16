@@ -1,6 +1,6 @@
 ---
 title: "Zhenggang Wang"
-image: images/wzg3.jpg
+image: images/wzg2.jpg
 about:
   id: hero-heading
   template: trestles
