@@ -23,7 +23,7 @@ about:
 
 ::: {#hero-heading}
 
-Welcome to my site! I am a Ph.D. student in Economics at [Faculty of Business and Economics, the University  of Hong Kong]([link](https://www.hkubs.hku.hk/)). I obtained my Bachelor's Degree in Economics from [School of Economics, Peking University]([link](https://econ.pku.edu.cn/)).
+Welcome to my site! I am a Ph.D. student in Economics at [HKU Business School]([link](https://www.hkubs.hku.hk/)). I obtained my Bachelor's Degree in Economics from [School of Economics, Peking University]([link](https://econ.pku.edu.cn/)).
 
 My research interests include labor economics, development economics, and Chinese economy, with special focus on migration and education. 
 

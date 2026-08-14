@@ -5,7 +5,7 @@ editor: visual
 
 ### Working Paper
 
-- **Skill-specific Migration Restrictions and Education Decision: Evidence from China** *(Draft available upon request)*
+- **Skill-specific Migration Restrictions and Education: Evidence from China** *(Draft available upon request)*
 
   - <div style="margin-top: -0.8em; margin-bottom: -0.8em;""><small><font color="gray" style="font-style: italic;">Presentations: 2025 International Workshop on Chinese Economy (HKU); RES 2026 Annual Conference (Newcastle)</font></small></div>
 
@@ -14,7 +14,7 @@ editor: visual
   <summary><font color="black">Abstract</font></summary>
 
   ::: {style="margin-top: 0.5em;"}
-  Migration prospects can reshape the pattern of human capital accumulation in potential sending communities by shifting the expected net return to education. This study exploits China's hukou reforms, which impose different migration restrictions across skill groups, and examines their effects on educational outcomes among the rural population. I classify hukou policies across more than 300 prefectures into skill-biased and general reforms and construct hukou strictness indices to measure their intensity. Using a shift-share approach, I find that skill-biased reforms in destinations increased enrollment in high schools and colleges among eligible age groups from the origins. In contrast, general reforms in destinations decreased enrollment rates in the origins. Similar patterns exist in long-run education attainment. These divergent effects highlight the importance of skill-specific migration prospects: skill-biased reforms increased the chances of high-skilled migration and thus the expected return to education, whereas general reforms increased the chances of low-skilled migration and, in turn, the opportunity costs of education.
+  Migration prospects can reshape human capital accumulation in potential sending communities by changing the expected net returns to education. This study exploits China's hukou reforms, which relaxed migration restrictions differently across skill groups, to examine their effects on educational outcomes among the rural population. I classify hukou reforms across more than 300 prefectures into skill-biased and general reforms and construct hukou reform indices to measure the intensity of relaxation. Using a shift-share approach, I find that skill-biased reforms in destinations increased high school and college enrollment among age-eligible rural individuals from origin prefectures. By contrast, general reforms in destinations reduced high school enrollment in origin prefectures. Similar divergent patterns appear in long-run educational attainment. These divergent effects highlight the importance of skill-specific migration prospects: skill-biased reforms increased the likelihood of high-skilled migration and thereby raised the expected return to education, whereas general reforms increased the likelihood of low-skilled migration and thereby raised the opportunity costs of education.
   :::
 
   </details>
@@ -37,6 +37,6 @@ editor: visual
 
 ### Work in Progress
 
-- Measuring sector-specific return to skills using Chinese income data (with [Naijia Guo](https://sites.google.com/view/naijia-guo/home?authuser=0))
+- Measuring sector-specific return to skills in the Chinese labor market (with [Naijia Guo](https://sites.google.com/view/naijia-guo/home?authuser=0))
 
 <small>*\*presented by coauthor(s)*</small>
