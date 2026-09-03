@@ -7,7 +7,7 @@ editor: visual
 
 - **Skill-specific Migration Restrictions and Education: Evidence from China** *(Draft available upon request)*
 
-  - <div style="margin-top: -0.8em; margin-bottom: -0.8em;""><small><font color="gray" style="font-style: italic;">Presentations: 2025 International Workshop on Chinese Economy (HKU); RES 2026 Annual Conference (Newcastle)； AASLE 2016 (Beijing, scheduled)</font></small></div>
+  - <div style="margin-top: -0.8em; margin-bottom: -0.8em;""><small><font color="gray" style="font-style: italic;">Presentations: 2025 International Workshop on Chinese Economy (HKU); RES 2026 Annual Conference (Newcastle);  AASLE 2016 (Beijing, scheduled)</font></small></div>
 
   <details>
 
